@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.capgemini.MockitoTestCase" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-10-20T10:21:27" hostname="DIN76000530" time="0.123">
+  <properties/>
+  <testcase name="Deposit_testCase" classname="org.capgemini.MockitoTestCase" time="0.119"/>
+  <testcase name="withdrawalTestCase" classname="org.capgemini.MockitoTestCase" time="0.001"/>
+  <testcase name="findAccountTestCase" classname="org.capgemini.MockitoTestCase" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
